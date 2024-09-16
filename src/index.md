@@ -16,11 +16,15 @@ title: Profile
 
 # 経歴
 
+- ???
+  - 2024/03-
+  - チャットボットのバックエンド
 - NTT Communications
-  - 2017/04-
+  - 2017/04-2024/02
   - WebRTC PaaSのSkyWayの開発
     - ブラウザSDK、バックエンドサーバ、その他ツール・スクリプト
     - WebRTC/MOQT
+      - [リポジトリ](https://github.com/nttcom/moq-wasm)
 - SECOM IS研究所 インターンシップ
   - 2015/08-2015/09
   - ルートCAの調査
