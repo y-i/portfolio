@@ -14,7 +14,7 @@ See [below](#accounts) for the English version.
 - [Speaker Deck](https://speakerdeck.com/y_i)
 - [Zenn](https://zenn.dev/y_i)
 - [Qiita](https://qiita.com/y-i)
-- [LikedIn](https://www.linkedin.com/in/yusuke-ikeda/)
+- [LinkedIn](https://www.linkedin.com/in/yusuke-ikeda/)
 
 # 経歴
 
