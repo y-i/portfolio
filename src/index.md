@@ -6,6 +6,8 @@
 title: Profile
 ---
 
+[問い合わせフォーム / Contact](https://forms.gle/8iV4z8ycXqQRLxKL6)
+
 See [below](#accounts) for the English version.
 
 # アカウント
